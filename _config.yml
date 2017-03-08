@@ -4,7 +4,7 @@ tagline:             a minimalist Jekyll theme
 description:
 baseurl:            "/STRIDER"
 url:                "https://svanimisetti.in"
-#enforce_ssl:        "svanimisetti.in"
+enforce_ssl:        "svanimisetti.in"
 github:
   url:               "https://svanimisetti.in/STRIDER"
 author:
