@@ -2,8 +2,9 @@
 title:               Lagrange
 tagline:             a minimalist Jekyll theme
 description:
-baseurl:            #"/Lagrange"
-url:                #"https://lenpaul.github.io"
+baseurl:            "/STRIDER"
+url:                "https://svanimisetti.in"
+enforce_ssl:        "svanimisetti.in"
 github:
   url:               #"https://lenpaul.github.io/Lagrange"
 author:
