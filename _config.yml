@@ -6,7 +6,7 @@ baseurl:            "/STRIDER"
 url:                "https://svanimisetti.in"
 enforce_ssl:        "svanimisetti.in"
 github:
-  url:               #"https://lenpaul.github.io/Lagrange"
+  url:               "https://svanimisetti.in/STRIDER"
 author:
   name:              "Paul Le"
   email:             "l.nguyen.paul@gmail.com"
