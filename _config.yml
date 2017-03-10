@@ -11,9 +11,9 @@ author:
   name:              "Sampath Vanimisetti"
   email:             "sampath.vanimisetti@gmail.com"
   twitter:           "svanimisetti"
-  instagram:         
+  instagram:
   github:            "svanimisetti"
-  facebook:          
+  facebook:
   linkedin:          "sampathvanimisetti"
 navigation:
 - title: About
@@ -24,7 +24,7 @@ navigation:
   url: /contact
 
 paginate:            5
-disqus:              #"your-disqus"
+disqus:              svanimisetti
 
 # Build settings
 markdown:            kramdown
