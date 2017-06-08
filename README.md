@@ -6,3 +6,5 @@ The intent behind this project is to develop an open source hardware project
 that will server as an education platform for teaching about autonomous vehicles.
 
 ![strider.PNG](strider.PNG)
+
+More details will be added shortly.
