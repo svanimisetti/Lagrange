@@ -1,5 +1,5 @@
 # STRIDER
-Home of the Smart Tri-Sense Driverless Exploration Rover Project
+Home of the Simplified Teaching & Research Implementation of Driverless Exploration Rover Project
 
 This repository hosts the GitHub pages for the STRIDER project.
 The intent behind this project is to develop an open source hardware project
